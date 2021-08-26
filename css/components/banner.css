@@ -1,0 +1,18 @@
+.banner {
+  height: 500px;
+  display: flex;
+  align-items: center;
+}
+
+.banner h1 {
+  color: whitesmoke;
+  text-shadow: 1px 1px 3px rgba(20, 20, 20, 0.5);
+  font-size: xx-large;
+}
+
+.banner p {
+  color: rgb(223, 211, 211);
+  text-shadow: 1px 1px 3px rgba(20, 20, 20, 0.5);
+  font-size: large;
+  margin-bottom: 25px;
+}
